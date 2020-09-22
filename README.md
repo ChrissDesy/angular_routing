@@ -1,3 +1,7 @@
+
+# angular_routing
+simple angular application with routing and components layouts
+
 # Routing
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
